@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "249913622311",
+    "project_id": "chatsapp-95690",
+    "storage_bucket": "chatsapp-95690.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:249913622311:android:4d53f692bf425077317302",
+        "android_client_info": {
+          "package_name": "com.symca.chatsapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoSe6IHA0R2zSVmywMCYdVq9iKN_t_QxY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
