@@ -1,0 +1,356 @@
+{
+  "chats": {
+    "ILlbSbcV8YVIy54334uGW50yL2N2R1CpkEQcO9NiQAtd3aOmT33lk2P2": {
+      "lastMsg": "😎😎😎😎",
+      "lastMsgTime": 1702670342856,
+      "messages": {
+        "-Nld1hN4Uoo5kYxqD0OB": {
+          "feeling": -1,
+          "message": "Hi randhir",
+          "senderId": "R1CpkEQcO9NiQAtd3aOmT33lk2P2",
+          "timestamp": 1702569364771
+        },
+        "-NldAfzfI-OQ1Jx_uLso": {
+          "feeling": -1,
+          "message": "Hello",
+          "senderId": "ILlbSbcV8YVIy54334uGW50yL2N2",
+          "timestamp": 1702571636806
+        },
+        "-NldCfwA1ESrUaYVKpNE": {
+          "feeling": -1,
+          "message": "what's up",
+          "senderId": "ILlbSbcV8YVIy54334uGW50yL2N2",
+          "timestamp": 1702572160817
+        },
+        "-NldJFYn7Ud_AFyoCw2Z": {
+          "feeling": -1,
+          "message": "Kal ka kya plan hai",
+          "senderId": "R1CpkEQcO9NiQAtd3aOmT33lk2P2",
+          "timestamp": 1702573883671
+        },
+        "-Nlj2ZVbXhV6sgMEVARU": {
+          "feeling": 1,
+          "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chatsapp-95690.appspot.com/o/chats%2F1702670247653?alt=media&token=fd31e322-b95b-4bf1-95ff-b9e8c1c3fd38",
+          "message": "photo",
+          "messageId": "-Nlj2ZVbXhV6sgMEVARU",
+          "senderId": "ILlbSbcV8YVIy54334uGW50yL2N2",
+          "timestamp": 1702670256360
+        },
+        "-Nlj2i81F2pavmn8mKZY": {
+          "feeling": -1,
+          "message": "Yaha jayenge",
+          "senderId": "ILlbSbcV8YVIy54334uGW50yL2N2",
+          "timestamp": 1702670295781
+        },
+        "-Nlj2tfJP2JgVAlJWjjw": {
+          "feeling": -1,
+          "message": "😎😎😎😎",
+          "senderId": "ILlbSbcV8YVIy54334uGW50yL2N2",
+          "timestamp": 1702670342856
+        }
+      }
+    },
+    "ILlbSbcV8YVIy54334uGW50yL2N2lnhmvOf96JXj3g7s9y4nfWdyroC2": {
+      "lastMsg": "Hello kishor",
+      "lastMsgTime": 1702571661894,
+      "messages": {
+        "-NldAm6n299OSFhAdEuI": {
+          "feeling": -1,
+          "message": "Hello kishor",
+          "senderId": "ILlbSbcV8YVIy54334uGW50yL2N2",
+          "timestamp": 1702571661894
+        }
+      }
+    },
+    "ILlbSbcV8YVIy54334uGW50yL2N2r6vxZ9PSTSfdfAX1GO16wxh1ZTg1": {
+      "lastMsg": "Hello",
+      "lastMsgTime": 1702569703910,
+      "messages": {
+        "-Nld2fiHR2H67j9MlBoa": {
+          "feeling": -1,
+          "message": "HI",
+          "senderId": "r6vxZ9PSTSfdfAX1GO16wxh1ZTg1",
+          "timestamp": 1702569620120
+        },
+        "-Nld3-8WdXfOUOuSc1dX": {
+          "feeling": -1,
+          "message": "Hello",
+          "senderId": "ILlbSbcV8YVIy54334uGW50yL2N2",
+          "timestamp": 1702569703910
+        }
+      }
+    },
+    "R1CpkEQcO9NiQAtd3aOmT33lk2P2ILlbSbcV8YVIy54334uGW50yL2N2": {
+      "lastMsg": "😎😎😎😎",
+      "lastMsgTime": 1702670342856,
+      "messages": {
+        "-Nld1hN4Uoo5kYxqD0OB": {
+          "feeling": -1,
+          "message": "Hi randhir",
+          "senderId": "R1CpkEQcO9NiQAtd3aOmT33lk2P2",
+          "timestamp": 1702569364771
+        },
+        "-NldAfzfI-OQ1Jx_uLso": {
+          "feeling": -1,
+          "message": "Hello",
+          "senderId": "ILlbSbcV8YVIy54334uGW50yL2N2",
+          "timestamp": 1702571636806
+        },
+        "-NldCfwA1ESrUaYVKpNE": {
+          "feeling": -1,
+          "message": "what's up",
+          "senderId": "ILlbSbcV8YVIy54334uGW50yL2N2",
+          "timestamp": 1702572160817
+        },
+        "-NldJFYn7Ud_AFyoCw2Z": {
+          "feeling": -1,
+          "message": "Kal ka kya plan hai",
+          "senderId": "R1CpkEQcO9NiQAtd3aOmT33lk2P2",
+          "timestamp": 1702573883671
+        },
+        "-Nlj2ZVbXhV6sgMEVARU": {
+          "feeling": 1,
+          "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chatsapp-95690.appspot.com/o/chats%2F1702670247653?alt=media&token=fd31e322-b95b-4bf1-95ff-b9e8c1c3fd38",
+          "message": "photo",
+          "messageId": "-Nlj2ZVbXhV6sgMEVARU",
+          "senderId": "ILlbSbcV8YVIy54334uGW50yL2N2",
+          "timestamp": 1702670256360
+        },
+        "-Nlj2i81F2pavmn8mKZY": {
+          "feeling": -1,
+          "message": "Yaha jayenge",
+          "senderId": "ILlbSbcV8YVIy54334uGW50yL2N2",
+          "timestamp": 1702670295781
+        },
+        "-Nlj2tfJP2JgVAlJWjjw": {
+          "feeling": -1,
+          "message": "😎😎😎😎",
+          "senderId": "ILlbSbcV8YVIy54334uGW50yL2N2",
+          "timestamp": 1702670342856
+        }
+      }
+    },
+    "R1CpkEQcO9NiQAtd3aOmT33lk2P2lnhmvOf96JXj3g7s9y4nfWdyroC2": {
+      "lastMsg": "HI",
+      "lastMsgTime": 1702569435236,
+      "messages": {
+        "-Nld1yZtGG-AK0i0CKuF": {
+          "feeling": -1,
+          "message": "HI",
+          "senderId": "R1CpkEQcO9NiQAtd3aOmT33lk2P2",
+          "timestamp": 1702569435236
+        }
+      }
+    },
+    "R1CpkEQcO9NiQAtd3aOmT33lk2P2r6vxZ9PSTSfdfAX1GO16wxh1ZTg1": {
+      "lastMsg": "How are you",
+      "lastMsgTime": 1702569858093,
+      "messages": {
+        "-Nld2hyfs6ILU8UBpz0S": {
+          "feeling": -1,
+          "message": "Hi",
+          "senderId": "r6vxZ9PSTSfdfAX1GO16wxh1ZTg1",
+          "timestamp": 1702569629373
+        },
+        "-Nld3Yl0dvN2i-UMijs9": {
+          "feeling": -1,
+          "message": "hello",
+          "senderId": "R1CpkEQcO9NiQAtd3aOmT33lk2P2",
+          "timestamp": 1702569849786
+        },
+        "-Nld3_mhSfvGFOFdYI3K": {
+          "feeling": -1,
+          "message": "How are you",
+          "senderId": "R1CpkEQcO9NiQAtd3aOmT33lk2P2",
+          "timestamp": 1702569858093
+        }
+      }
+    },
+    "a7AB910GYKctl8sxQBLJN2QsFfv2gjDsYYPQZueZGkO4Pj7Lw7HemLt1": {
+      "lastMsg": "hii",
+      "lastMsgTime": 1679393371592,
+      "messages": {
+        "-NNY7HAVrbloy5NtEQuv": {
+          "feeling": -1,
+          "message": "Hi",
+          "senderId": "gjDsYYPQZueZGkO4Pj7Lw7HemLt1",
+          "timestamp": 1675574256166
+        },
+        "-NQrzqJ1VAJjjy57H6ez": {
+          "feeling": -1,
+          "message": "Good Morning ",
+          "senderId": "a7AB910GYKctl8sxQBLJN2QsFfv2",
+          "timestamp": 1679197957337
+        },
+        "-NR2dIElioNOua76vfmX": {
+          "feeling": -1,
+          "message": "hii",
+          "senderId": "a7AB910GYKctl8sxQBLJN2QsFfv2",
+          "timestamp": 1679393371592
+        }
+      }
+    },
+    "lnhmvOf96JXj3g7s9y4nfWdyroC2ILlbSbcV8YVIy54334uGW50yL2N2": {
+      "lastMsg": "Hello kishor",
+      "lastMsgTime": 1702571661894,
+      "messages": {
+        "-NlcruqhUJtzPI-ezzMg": {
+          "feeling": -1,
+          "message": "Hi Randhir",
+          "senderId": "ILlbSbcV8YVIy54334uGW50yL2N2",
+          "timestamp": 1702566536917
+        },
+        "-NldAm6n299OSFhAdEuI": {
+          "feeling": -1,
+          "message": "Hello kishor",
+          "senderId": "ILlbSbcV8YVIy54334uGW50yL2N2",
+          "timestamp": 1702571661894
+        }
+      }
+    },
+    "lnhmvOf96JXj3g7s9y4nfWdyroC2R1CpkEQcO9NiQAtd3aOmT33lk2P2": {
+      "lastMsg": "HI",
+      "lastMsgTime": 1702569435236,
+      "messages": {
+        "-Nld1yZtGG-AK0i0CKuF": {
+          "feeling": -1,
+          "message": "HI",
+          "senderId": "R1CpkEQcO9NiQAtd3aOmT33lk2P2",
+          "timestamp": 1702569435236
+        }
+      }
+    },
+    "r6vxZ9PSTSfdfAX1GO16wxh1ZTg1ILlbSbcV8YVIy54334uGW50yL2N2": {
+      "lastMsg": "Hello",
+      "lastMsgTime": 1702569703910,
+      "messages": {
+        "-Nld2fiHR2H67j9MlBoa": {
+          "feeling": -1,
+          "message": "HI",
+          "senderId": "r6vxZ9PSTSfdfAX1GO16wxh1ZTg1",
+          "timestamp": 1702569620120
+        },
+        "-Nld3-8WdXfOUOuSc1dX": {
+          "feeling": -1,
+          "message": "Hello",
+          "senderId": "ILlbSbcV8YVIy54334uGW50yL2N2",
+          "timestamp": 1702569703910
+        }
+      }
+    },
+    "r6vxZ9PSTSfdfAX1GO16wxh1ZTg1R1CpkEQcO9NiQAtd3aOmT33lk2P2": {
+      "lastMsg": "How are you",
+      "lastMsgTime": 1702569858093,
+      "messages": {
+        "-Nld2hyfs6ILU8UBpz0S": {
+          "feeling": -1,
+          "message": "Hi",
+          "senderId": "r6vxZ9PSTSfdfAX1GO16wxh1ZTg1",
+          "timestamp": 1702569629373
+        },
+        "-Nld3Yl0dvN2i-UMijs9": {
+          "feeling": -1,
+          "message": "hello",
+          "senderId": "R1CpkEQcO9NiQAtd3aOmT33lk2P2",
+          "timestamp": 1702569849786
+        },
+        "-Nld3_mhSfvGFOFdYI3K": {
+          "feeling": -1,
+          "message": "How are you",
+          "senderId": "R1CpkEQcO9NiQAtd3aOmT33lk2P2",
+          "timestamp": 1702569858093
+        }
+      }
+    }
+  },
+  "presence": {
+    "6iETnph9gUNneNo3eQVeTnWpkL73": "Online",
+    "ILlbSbcV8YVIy54334uGW50yL2N2": "Offline",
+    "R1CpkEQcO9NiQAtd3aOmT33lk2P2": "Online",
+    "r6vxZ9PSTSfdfAX1GO16wxh1ZTg1": "Offline"
+  },
+  "public": {
+    "-NNRpNoGyE-dVh9Huw8P": {
+      "feeling": -1,
+      "message": "hi",
+      "senderId": "lnhmvOf96JXj3g7s9y4nfWdyroC2",
+      "timestamp": 1675520984705
+    },
+    "-Nld1mMVnJ7wuC_XFirX": {
+      "feeling": -1,
+      "message": "Hey kishor",
+      "senderId": "R1CpkEQcO9NiQAtd3aOmT33lk2P2",
+      "timestamp": 1702569385224
+    },
+    "-NldClU1F6A3b8TUMC4d": {
+      "feeling": -1,
+      "message": "Hello",
+      "senderId": "ILlbSbcV8YVIy54334uGW50yL2N2",
+      "timestamp": 1702572183528
+    },
+    "-NldECP4bgiP8CUY-IUV": {
+      "feeling": -1,
+      "message": "What's about tommorows plan",
+      "senderId": "r6vxZ9PSTSfdfAX1GO16wxh1ZTg1",
+      "timestamp": 1702572560074
+    }
+  },
+  "stories": {
+    "ILlbSbcV8YVIy54334uGW50yL2N2": {
+      "lastUpdated": 1702572082368,
+      "name": "Randhir",
+      "profileImage": "No Image",
+      "statuses": {
+        "-NldCPjtlFPlZPIG853x": {
+          "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chatsapp-95690.appspot.com/o/status%2F1702572082368?alt=media&token=1cb5c7f0-656e-4953-9d46-988a47df6123",
+          "timeStamp": 1702572082368
+        }
+      }
+    },
+    "lnhmvOf96JXj3g7s9y4nfWdyroC2": {
+      "lastUpdated": 1675574240875,
+      "name": "Kishor Banage",
+      "profileImage": "No Image",
+      "statuses": {
+        "-NNRnIgocvHD4XvWDCTO": {
+          "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chatappdb-c0a60.appspot.com/o/status%2F1675520434631?alt=media&token=1cc34a1a-a391-4619-88bb-3e9a49775ace",
+          "timeStamp": 1675520434631
+        },
+        "-NNV-UCdPPO1B1ObRSBC": {
+          "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chatappdb-c0a60.appspot.com/o/status%2F1675574240875?alt=media&token=36cccb9d-e8a4-4cc4-b1cf-f212e08076ba",
+          "timeStamp": 1675574240875
+        }
+      }
+    }
+  },
+  "users": {
+    "ILlbSbcV8YVIy54334uGW50yL2N2": {
+      "name": "Randhir",
+      "phoneNumber": "+919112493053",
+      "profileImage": "No Image",
+      "token": "f8UNjbYYS4-HOMuciKOkKS:APA91bFkBHq2ARDPSR4htq8DY8_zY3lV88-hTm97xXApYRgxT5B738wXI5sQV3EA97dIf9W2ly4F6Jdxw8t-VUnTbxQXDAYfVr2Pen6Ki_g4skOlyCfI-jxClxwkIYAqMLn9gc2fGDMp",
+      "uid": "ILlbSbcV8YVIy54334uGW50yL2N2"
+    },
+    "R1CpkEQcO9NiQAtd3aOmT33lk2P2": {
+      "name": "Justin",
+      "phoneNumber": "+919876543210",
+      "profileImage": "No Image",
+      "token": "f8UNjbYYS4-HOMuciKOkKS:APA91bFkBHq2ARDPSR4htq8DY8_zY3lV88-hTm97xXApYRgxT5B738wXI5sQV3EA97dIf9W2ly4F6Jdxw8t-VUnTbxQXDAYfVr2Pen6Ki_g4skOlyCfI-jxClxwkIYAqMLn9gc2fGDMp",
+      "uid": "R1CpkEQcO9NiQAtd3aOmT33lk2P2"
+    },
+    "lnhmvOf96JXj3g7s9y4nfWdyroC2": {
+      "name": "Kishor",
+      "phoneNumber": "+919657795629",
+      "profileImage": "No Image",
+      "token": "f1eIIyUFTl6OIsfcog0loF:APA91bFWJjD9XD8cfBMJwKo0XpPFSsvNCNBos9MbDjMFzqswEx9ecrR2jrUmcrgNJkUwVieKIstddKvNMEN7w0WBOIYmCEiNTO6MOwRqeC6E6k-DFtsxYOzOSi5Bla9R82WmWvFMMnah",
+      "uid": "lnhmvOf96JXj3g7s9y4nfWdyroC2"
+    },
+    "r6vxZ9PSTSfdfAX1GO16wxh1ZTg1": {
+      "name": "Kishor",
+      "phoneNumber": "+919657795629",
+      "profileImage": "https://firebasestorage.googleapis.com/v0/b/chatsapp-95690.appspot.com/o/Profiles%2Fr6vxZ9PSTSfdfAX1GO16wxh1ZTg1?alt=media&token=d76ff4d8-8bd6-42fe-977e-952eab2b93e6",
+      "token": "ddD6iYctTaGNvEWBtZwLCd:APA91bHP0yxRJN1XgpWEvDyc3igNC9t1g6Odt4V0xeuEFNya3qSWJ9kPGoPIxykpfmmOoX1ICsJlkf8-e_b06OLb60AtvMYIspCU0xUxENC_oh-0q4Uf02-LBaT5SlxmsJ5FtqhVljxM",
+      "uid": "r6vxZ9PSTSfdfAX1GO16wxh1ZTg1"
+    }
+  }
+}
